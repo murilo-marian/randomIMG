@@ -1,4 +1,5 @@
 import random
+#teste
 
 size = 1000
 
