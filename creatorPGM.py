@@ -1,6 +1,6 @@
 import random
 
-text = "P2 \n100 100\n16\n"
+text = "P2 \n100 100\n14\n"
 
 h = 100
 w = 100
